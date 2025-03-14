@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Here's a simple strawberry smoothie recipe for you! 🍓🥤\n\n"
+        "Ingredients:
+        - 1 cup fresh or frozen strawberries
+        - 1 banana (for natural sweetness and creaminess)
+        - ½ cup Greek yogurt (or any yogurt of choice)
+        - ½ cup milk (dairy or plant-based)
+        - 1 tbsp honey or maple syrup (optional)
+        - ½ tsp vanilla extract (optional)
+        - ½ cup ice cubes (if using fresh strawberries)\n\n"
+
+        "Instructions:
+        1. Prepare the Ingredients – Wash the strawberries thoroughly and remove the green tops. If using fresh strawberries, cut them into halves for easier blending. Peel the banana and chop it into smaller pieces.\n
+        2. Add to Blender – In a blender, add the strawberries, banana, yogurt, and milk. These form the base of your smoothie.\n
+        3. Sweeten (If Needed) – If you prefer a sweeter smoothie, add honey or maple syrup. This step is optional as the banana provides natural sweetness.\n
+        4. Enhance the Flavor – Add vanilla extract for an extra layer of flavor. This enhances the taste without overpowering the fruit.\n
+        5. Add Ice (Optional) – If using fresh strawberries instead of frozen ones, add ice cubes to chill the smoothie and give it a refreshing texture.\n
+        6. Blend Until Smooth – Secure the blender lid and blend on high speed for 30–60 seconds or until the mixture is smooth and creamy. If the consistency is too thick, add a little more milk and blend again.\n
+        7. Taste and Adjust – Before serving, taste the smoothie. If it's too thick, add more liquid. If you want it sweeter, add more honey or fruit. Blend again if necessary.\n
+        8. Serve Immediately – Pour the smoothie into a glass and enjoy it fresh. For an extra special touch, garnish with sliced strawberries or a sprinkle of chia seeds.\n\n\n"
+
+        "Understanding the Process:
+        - A smoothie is all about balance—choosing the right ingredients to achieve a creamy, flavorful, and nutritious drink. The banana adds natural sweetness and thickness, while yogurt provides a creamy texture and a boost of protein. Adding vanilla extract enhances the flavor, while optional sweeteners can adjust the taste to your preference. Blending everything together ensures a smooth consistency, and ice helps to make it cold and refreshing. The best part? You can customize the smoothie by adding extras like chia seeds, protein powder, or even a handful of spinach for a nutritional boost! Enjoy your homemade strawberry smoothie! 🍓✨"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
